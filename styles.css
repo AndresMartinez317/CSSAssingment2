@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+p:nth-child(2){
+    font-family: italic;
+}
+p:nth-child(4){
+    font-family: italic;
+}
+p:nth-child(6){
+    font-family: italic;
+}
+p:nth-child(3 ){
+    font-family: cursive;
+    font-weight: bold;
+}
+p:nth-child(5 ){
+    font-family: cursive;
+    font-weight: bold;
+}
+p:nth-child(7 ){
+    font-family: cursive;
+    font-weight: bold;
+}
+p:nth-child(8){
+    font-family: inherit;
+    font-weight: 800;
+}
